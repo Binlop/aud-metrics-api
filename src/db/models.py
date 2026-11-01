@@ -1,0 +1,1 @@
+from analytics.models import RespondentStat # noqa: F401
