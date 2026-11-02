@@ -7,7 +7,7 @@ API для расчёта метрик аудиторий. Стек: FastAPI, Po
 ```bash
 git clone https://github.com/Binlop/aud-metrics-api.git
 cd aud-metrics-api
-docker compose up --build
+docker compose up
 ```
 
 При первом запуске автоматически произойдёт следующее:
